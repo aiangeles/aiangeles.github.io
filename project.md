@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
-  layout: page
-  title: "PAGE-TITLE"
-  permalink: /project
+<body>
+<h1>Hello World</hl>
+<p>hello</p>
+</body>
 </html>
-
